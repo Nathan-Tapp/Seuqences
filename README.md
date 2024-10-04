@@ -1,4 +1,4 @@
-# Seuqences
+# Sequences
 Testing-Sequences
 # Description:
 # program  to be a test suite for a class named Sequence, 
